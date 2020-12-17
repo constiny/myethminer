@@ -1,0 +1,1 @@
+bminer -uri ethproxy://0xe68E510Ac1bd99f4E110dA25C4d2272939F661E7.workercons@eth-us.f2pool.com:6688
